@@ -1,7 +1,7 @@
 # PcSleep-Privacy-Policy
 ** PcSleep Application Privacy Policy:   PcSleep does not access, collect or transmit any Personal Information. 
 
-It is a New, Fancy, Different, and Easer way to do machine lock, sleep, restart, and shutdown. 
+It is a New, Fancy, Different, and Easier way to do machine lock, sleep, restart, and shutdown. 
 
 Features and Functions
 •	From main page, you can lock and sleep the machine.
